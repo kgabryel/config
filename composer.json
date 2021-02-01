@@ -1,0 +1,12 @@
+{
+  "name": "frankie/config",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\Config\\": "src"
+    }
+  },
+  "require": {
+    "php-ds/php-ds": "^1.2",
+    "m1/env": "^2.1"
+  }
+}
